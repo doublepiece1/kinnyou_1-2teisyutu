@@ -483,6 +483,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 352780609}
+  - component: {fileID: 352780613}
   - component: {fileID: 352780612}
   - component: {fileID: 352780611}
   - component: {fileID: 352780610}
@@ -576,6 +577,18 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
+--- !u!114 &352780613
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 352780608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e03d5f52d6288142969ffd3d5cd9cb5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::HPUIRotateScript
 --- !u!1 &410087039
 GameObject:
   m_ObjectHideFlags: 0

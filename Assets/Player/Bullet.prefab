@@ -48,9 +48,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 34e4fab1b7c807f46b64105aac36a9bc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Bullet
-  speed: 15
-  damage: 100
-  lifeTime: 5
+  damage: 20
 --- !u!33 &6955560484102530122
 MeshFilter:
   m_ObjectHideFlags: 0
